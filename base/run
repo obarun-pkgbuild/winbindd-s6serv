@@ -1,4 +1,4 @@
 #!@BINDIR_EXECLINE@/execlineb -P
 fdmove -c 2 1
 exec -c
-/usr/bin/winbindd -F
+/usr/bin/winbindd -FS
